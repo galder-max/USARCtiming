@@ -14,7 +14,7 @@ The R code presented here contains functions to time whole genome duplications i
 
 ## Content
 
-The R code contains functions for plotting and timing, as well as a pipeline which: 
+The R code contains functions for plotting and timing, as well as a pipeline which does the following: 
 1. load libraries, genome driver genes
 2. read in copy number profiles and snv calls
 3. infer whole genome duplication status (mode of the major allele)
